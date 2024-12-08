@@ -1,2 +1,0 @@
-# Cough
-Constant cough
